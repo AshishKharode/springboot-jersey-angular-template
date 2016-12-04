@@ -15,5 +15,4 @@ public class JerseyConfig extends ResourceConfig{
 		packages("com.example");
 		register(AppResource.class);
 	}
-	
 }
